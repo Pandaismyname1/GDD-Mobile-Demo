@@ -1,0 +1,9 @@
+lastUpgrade=00953
+proj.pluginVersion=0.9.53
+proj.AppId=37602350665
+and.BundleId=com.Pandaismyname1.MobilePres
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e37602350665%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.Pandaismyname1.MobilePres%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Accelerometer+Achievement+--%3e%0d%0a++%3cstring+name%3d%22achievement_accelerometer_achievement%22+translatable%3d%22false%22%3eCgkIyayZiowBEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Swipe+Achievement+--%3e%0d%0a++%3cstring+name%3d%22achievement_swipe_achievement%22+translatable%3d%22false%22%3eCgkIyayZiowBEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Purchase+IAP+--%3e%0d%0a++%3cstring+name%3d%22achievement_purchase_iap%22+translatable%3d%22false%22%3eCgkIyayZiowBEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Seconds+In+App+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_seconds_in_app%22+translatable%3d%22false%22%3eCgkIyayZiowBEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=37602350665-su82lhpgd7fhlvsdmfbjmo9t0t2ggl4j.apps.googleusercontent.com
+android.SetupDone=true
